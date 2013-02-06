@@ -115,7 +115,9 @@ namespace Structum.Tasks.MSBuild
         private string GetTaggedFilename(string hash)
         {
             FileInfo fi = new FileInfo(this._file);
-            return Path.GetFileNameWithoutExtension(this._file) + "_" + hash + fi.Extension;
+            string taggedFileNameTemplate = "{0}.{1}.min.js";
+
+            return String.Format(taggedFileNameTemplate, Path.GetFileNameWithoutExtension(this._file).Replace(".min", String.Empty), hash);
         }
         #endregion
     }
