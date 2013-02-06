@@ -1,0 +1,4 @@
+Structum.Tasks.MSBuild/bin
+Structum.Tasks.MSBuild/obj
+*.suo
+*.user
