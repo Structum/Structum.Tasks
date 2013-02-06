@@ -1,0 +1,4 @@
+D:\dev\Structum\WebResourceVersioner\Structum.Tasks\Structum.Tasks.MSBuild\bin\Debug\Structum.Tasks.MSBuild.dll
+D:\dev\Structum\WebResourceVersioner\Structum.Tasks\Structum.Tasks.MSBuild\bin\Debug\Structum.Tasks.MSBuild.pdb
+D:\dev\Structum\WebResourceVersioner\Structum.Tasks\Structum.Tasks.MSBuild\obj\Debug\Structum.Tasks.MSBuild.dll
+D:\dev\Structum\WebResourceVersioner\Structum.Tasks\Structum.Tasks.MSBuild\obj\Debug\Structum.Tasks.MSBuild.pdb
